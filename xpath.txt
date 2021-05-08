@@ -1,0 +1,5 @@
+links = //h2/a[@class=contains(.,"Sect")]/@href
+titulo = //h1/i/text()
+tituloop2 = //div[@class="row OpeningPostNormal"]//h2/span/text()
+resumen = //div[@class="lead"]/p/text()
+Cuerpo = //div[@class="html-content"]/p/text()
